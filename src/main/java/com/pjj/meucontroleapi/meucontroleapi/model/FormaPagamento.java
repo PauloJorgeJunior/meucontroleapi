@@ -1,6 +1,5 @@
 package com.pjj.meucontroleapi.meucontroleapi.model;
 
-public enum TipoLancamento {
-    RECEITA,
-    DESPESA
+public enum FormaPagamento {
+    DEBITO, CREDITO
 }
